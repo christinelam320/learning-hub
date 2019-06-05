@@ -1,0 +1,31 @@
+### git reference 
+## basic references
+# random
+create new txt file: vim (title).txt
+git pull origin master
+
+# moving around
+h (left)
+j (down)
+k (up)
+l (right)
+
+0 (beginning of line)
+$ (end of line)
+
+w (forward one word)
+b (back one word)
+
+G (end of file)
+gg (beginning of file)
+
+preface with a number to do it multiple times
+
+# editing
+x (delete char)
+u (undo)
+dw (delete entire word from that point forward)
+Ctrl-r (redo last undo)
+
+#testing without putting space between markdown
+
