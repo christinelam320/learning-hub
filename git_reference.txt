@@ -1,2 +1,5 @@
 git push origin master (send changes to the master branch of romate repository)
 git pull (fetch and merge changes)
+
+
+git add then git commit then git push
