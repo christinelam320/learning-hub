@@ -3,3 +3,8 @@ git pull (fetch and merge changes)
 
 
 git add then git commit then git push
+
+mkdir to make new folder thing
+vim (name) for new text file thing
+
+ssh into expressive@cs and then cry
